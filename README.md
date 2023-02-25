@@ -1,0 +1,1 @@
+Source code for the tutorial "Athena to read IoT data (part 2)" available on www.cloudsoft.com.pl
